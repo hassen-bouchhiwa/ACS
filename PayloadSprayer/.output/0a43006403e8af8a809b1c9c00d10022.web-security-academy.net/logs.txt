@@ -1,9 +1,0 @@
-
-=====================================
-| Started in 2024-09-17 at 14:18:46 |
-=====================================
-[info] Tested URL : https://0a43006403e8af8a809b1c9c00d10022.web-security-academy.net/filter?category=Accessories
-=====================================
-| Started in 2024-09-17 at 14:18:46 |
-=====================================
-[info] Tested URL : https://0a43006403e8af8a809b1c9c00d10022.web-security-academy.net/filter?category=Accessories
